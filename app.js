@@ -51,7 +51,7 @@ let pvr = [
         b: [8, 5],
         a: [],
         price: [800, 800, 560, 560, 560, 560, 430, 430],
-        date: 3,
+        date: 5,
         img: 'img/jawan.jpg',
         video: 'video/Jawan Official Trailer-(HDvideo9).mp4',
         background: 'img/bg.png',
